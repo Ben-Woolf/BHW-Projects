@@ -24,13 +24,15 @@ Includes:
    
    >Return to default with \
   
-
+----------------------------------------------------------------------
 
 To run either of these programs you will require the following:
  
  -Python3
  
  -tkinter module for Python3 (python3-tk)
+
+----------------------------------------------------------------------
 
 Known issues:
   
