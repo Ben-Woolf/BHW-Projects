@@ -2,7 +2,7 @@
 
 Includes:
 
-  -SortedDict.txt - A cross referenced result of words sorted by popularity from Peter Norvig's collection of 100k most popular "words" with a text file containing 330k words in alphabetical order from Scrabble, which is recongnised by Oxford Dictionary. Cross checking the text files resulted in this dictionary containing approximately 56k words in order of popularity.
+  -SortedDict.txt - A cross referenced result of words sorted by popularity from Peter Norvig's collection of 100k most popular "words" in addition to a text file containing 330k words in alphabetical order from Scrabble / Scrabble-like games, which is recongnised by Oxford Dictionary. Cross checking the text files resulted in this dictionary containing approximately 56k words in order of popularity.
   
   -DictTrie.py - A program that was used to first build the Trie using SortedDict.txt and is used to find the 3 most popular results in the trie when building a word in the Normal Keyboard Program
   
